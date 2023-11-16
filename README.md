@@ -5,7 +5,7 @@ This repo is for my Codédex progress. You can [join Codédex here](https://www.
 
 My aim is to complete at least a little bit every day.
 
-## In Progress
+## ⏳ In Progress 
 
 **The Origins I: HTML**: 
 - Current Progress: 21% Complete
@@ -17,7 +17,7 @@ My aim is to complete at least a little bit every day.
 
 
 
-## Not Started
+## ⛔️ Not Started
 
 **The Origins II: CSS**:
 
