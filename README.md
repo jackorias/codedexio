@@ -8,7 +8,7 @@ My aim is to complete at least a little bit every day. The files I have uploaded
 ## ⏳ In Progress 
 
 **The Origins I: HTML**: 
-- Current Progress: 21% Complete
+- Current Progress: 30% Complete
 
 
 
