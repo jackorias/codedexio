@@ -1,0 +1,77 @@
+<!-- Write code below 💖 -->
+<!DOCTYPE html>
+<head>
+  <style>
+  body {
+    width: 85%;
+    margin: auto;
+  }
+
+  h1 {
+    text-align: left;
+  }
+
+  img {
+    border: 3px solid blue;
+  }
+
+  #top-8-wrapper {
+    text-align: center;
+  }
+
+  .friend-card {
+    display: inline-block;
+    margin: 1px;
+    text-align: center;
+  }
+
+  .friend-name {
+    color: blue;
+  }
+</style>
+<title> MySpace Top 8</title>
+</head>
+
+</body>
+<div id="top-8-wrapper">
+  <h1>My Top Friends!</h1>
+</div>
+<!-- 1st Row of Friends -->
+  <div class="top-8-row">
+    <div class="friend-card">
+      <h3 class="friend-name">Friendo Uno</h3>
+      <img src="https://i.imgur.com/ycHy7HP_d.webp?maxwidth=520&shape=thumb&fidelity=high" alt="random imgur image" width="100px">
+      </div>
+       <div class="friend-card">
+      <h3 class="friend-name">Friendo Dos</h3>
+            <img src="https://i.imgur.com/rIE6uCZ_d.webp?maxwidth=520&shape=thumb&fidelity=high" alt="random imgur image" width="100px">
+      </div>
+       <div class="friend-card">
+      <h3 class="friend-name">Friendo Tres</h3>
+                  <img src="https://i.imgur.com/RLdg5Wm.webp?tb" alt="random imgur image" width="100px">
+      </div>
+       <div class="friend-card">
+      <h3 class="friend-name">Friendo Cuatro</h3>
+     <img src="https://i.imgur.com/GJgAS1K_d.webp?maxwidth=520&shape=thumb&fidelity=high" alt="random imgur image" width="100px">
+      </div>
+      <!-- 2nd Row of Friends -->
+        <div class="top-8-row">
+    <div class="friend-card">
+      <h3 class="friend-name">Friendo Cinco</h3>
+      <img src="https://i.imgur.com/DbXZXaE_d.webp?maxwidth=520&shape=thumb&fidelity=high" alt="random imgur image" width="100px">
+      </div>
+       <div class="friend-card">
+      <h3 class="friend-name">Friendo Seise</h3>
+            <img src="https://i.imgur.com/m1F4VhQ_d.webp?maxwidth=520&shape=thumb&fidelity=high" alt="random imgur image" width="100px">
+      </div>
+       <div class="friend-card">
+      <h3 class="friend-name">Friendo Siete</h3>
+                  <img src="https://i.imgur.com/Jjcx3ru_d.webp?maxwidth=520&shape=thumb&fidelity=high" alt="random imgur image" width="100px">
+      </div>
+       <div class="friend-card">
+      <h3 class="friend-name">Friendo Ocho</h3>
+     <img src="https://i.imgur.com/3zPMvhK_d.webp?maxwidth=520&shape=thumb&fidelity=high" alt="random imgur image" width="100px">
+      </div>
+</div>
+</body>
+</html>
